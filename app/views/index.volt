@@ -14,7 +14,7 @@
         {{ stylesheet_link('skins/eden.css') }}
         {{ stylesheet_link('fonts/icons/icons.css') }}
     </head>
-    <body>
+    <body  data-spy="scroll" data-target="#topnav"  id="top">
         {{ content() }}
     </body>
     {{ javascript_include('js/jquery-2.1.3.min.js') }}

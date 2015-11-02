@@ -312,7 +312,7 @@ button.navbar-toggle{
 section{
     display: block;
     clear: both;
-    margin-bottom: 30px;
+   /* margin-bottom: 30px;*/
 }
 section .section-intro{
     margin-bottom: 50px;
